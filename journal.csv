@@ -1,4 +1,4 @@
-#,Date,Algo,Username,Symbol,Entry,Stoploss,Position,Exit
+SNo,Date,Algo,Username,Symbol,Entry,Stoploss,Position,Exit
 0,2020-12-30,bnf_expiry,Tomin,BANKNIFTY20DEC31200CE,258.8833333333333,,-75,237.31666666666663
 1,2020-12-30,bnf_expiry,Tomin,BANKNIFTY20DEC31200PE,162.2,,-75,138.11666666666667
 2,2020-12-30,bnf_expiry,Abin,BANKNIFTY20DEC31200CE,259.25,,-75,237.4
